@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "neopixel-test_250222",
-    "project_version":    "1",
+    "project_version":    "1b0bc46-dirty",
     "project_path":       "C:/Users/ray/.esp-idf-projects/neopixel-test_250222",
     "idf_path":           "C:/Users/ray/esp/esp-idf-release-v5.3",
     "build_dir":          "C:/Users/ray/.esp-idf-projects/neopixel-test_250222/build",
@@ -1180,7 +1180,7 @@
             "managed_reqs": [],
             "managed_priv_reqs": [],
             "file": "C:/Users/ray/.esp-idf-projects/neopixel-test_250222/build/esp-idf/main/libmain.a",
-            "sources": [ "C:/Users/ray/.esp-idf-projects/neopixel-test_250222/main/led_strip_example_main.c", "C:/Users/ray/.esp-idf-projects/neopixel-test_250222/main/led_strip_encoder.c" ],
+            "sources": [ "C:/Users/ray/.esp-idf-projects/neopixel-test_250222/main/esp32s3_onboard_LED.c", "C:/Users/ray/.esp-idf-projects/neopixel-test_250222/main/led_strip_encoder.c" ],
             "include_dirs": [ "." ]
         },
         "mbedtls": {

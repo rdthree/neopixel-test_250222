@@ -1,0 +1,46 @@
+# Build directory and configuration
+/build/
+/sdkconfig
+/sdkconfig.old
+/sdkconfig.defaults
+/sdkconfig.*
+
+# ESP-IDF specific
+components/
+managed_components/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Compiled output
+*.bin
+*.elf
+*.map
+*.a
+*.o
+*.d
+*.exe
+
+# Debug files
+*.log
+*.dump
+
+# Python files (for ESP-IDF tools)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PlatformIO (if you switch between ESP-IDF and PlatformIO)
+.pio/
+platformio.ini
+
+# Project specific backups
+*~
+*.bak
+*.orig
