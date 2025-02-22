@@ -1,0 +1,2 @@
+source C:/Users/ray/.esp-idf-projects/neopixel-test_250222/build/bootloader/gdbinit/symbols
+source C:/Users/ray/.esp-idf-projects/neopixel-test_250222/build/bootloader/gdbinit/connect
